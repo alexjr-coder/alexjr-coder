@@ -2,14 +2,14 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/11/df/58/11df58e8d717e9358c502a66156ed374.gif"  />
+<img align="right" height="100" src="https://i.pinimg.com/originals/11/df/58/11df58e8d717e9358c502a66156ed374.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="30" alt="css3 logo"  />
 </div>
 
 ###
