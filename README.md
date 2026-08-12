@@ -289,12 +289,12 @@ CONTINUAR CONSTRUINDO.
 
 <div align="center">
 
-```text
+```text center
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║        "A MELHOR FORMA DE PREVER O FUTURO É CONSTRUÍ-LO."   ║
 ║                                                              ║
-║                         — ALEX_OS                            ║
+║                         — ALEX_JR                            ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
